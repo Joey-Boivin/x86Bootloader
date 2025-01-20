@@ -1,7 +1,7 @@
 # x86Bootloader
 
 
-Just a simple first & second stage bootloader for the x86 architecture. Uses the [cdecl](https://en.wikipedia.org/wiki/X86_calling_conventions) calling convention
+Just a simple first & second stage bootloader for the x86 architecture. Uses the [cdecl](https://en.wikipedia.org/wiki/X86_calling_conventions) calling convention. Uses the FAT12 file system.
 
 
 <div align="center">
